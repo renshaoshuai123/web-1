@@ -1,0 +1,48 @@
+body{
+	font-family: Arial;
+	color：#999999;
+	line-height:2em;
+	font-size: 12px
+}
+a{
+	color: #727272;
+	text-decoration: none;
+	font-size: 12px
+}
+#menu{
+	color: #ffffff;
+	font-size: 14px
+}
+.special{
+	 color: #fdb306;
+	 font-size: 14px
+}
+h1{
+	font-family: "微软雅黑";
+	font-size: 20px;
+	color: #686868;
+	text-indent:3em
+}
+.textp{
+	color: #666666;
+	font-size: 12px;
+	text-indent:2em
+}
+h2{
+	font-family: Arial;
+	font-size:12px;
+	color: #a9a8a8;
+	text-indent:11em
+}
+#ab{
+	color: #b9f605
+}
+.font_next{   
+	color:#22a3d3
+}
+.hot{
+	font-family: "微软雅黑";
+	font-size: 16px;
+	color: #65a7d0;
+	font-weight: bold;
+}
