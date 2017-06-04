@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+	<title></title>
+	 <link rel="stylesheet" type="text/css" href="C:\Users\del\Desktop/duanwu.css">
+</head>
+<body>
+     <!--logo -->
+     <div class="logo">
+     
+     <img src="C:\Users\del\Desktop/logo.png" width="70" height="50px">
+     <div class="form">
+                    <form action="" method="get">
+                         <div class="kuan"><input name="" type="text" value="请输入文字" /></div>
+                         <div class="an"><input name="" type="button" value="搜索" /></div>
+                    </form>
+     </div>
+
+     </div>
+     <!--导航条-->
+     <div class="clear"></div>
+     <div class="menu">
+     	<ul>
+     		<li><a href="#">首页</a></li>
+     		<li><a href="#">起源考证</a></li>
+     		<li><a href="#">民间习俗</a></li>
+     		<li><a href="#">文学记述</a></li>
+     		<li><a href="#">传承发展</a></li>
+     	</ul>
+     </div>
+     <div class="banner">
+     	<img src="C:\Users\del\Desktop/banner.jpg" alt="这是banner">
+     </div>
+     <div class="main">
+       <div class="m_left">
+       <img src="C:\Users\del\Desktop/pic1.jpg" width="300" height="295"> </div>
+       <div class="m_right">
+                    <h4>端午节简介</h4>
+                    <p>“棕子香，香厨房。艾叶香，香满堂。桃枝插在大门上，出门一望麦儿黄。这儿端阳，那儿端阳，处处都端阳。”这首童谣所唱的便是我国的传统节日端午节。</p>
+                    <p>农历五月初五，是中国民间的传统节日——端午节，它是中华民族古老的传统节日之一。端午也称端五，端阳。此外，端午节还有许多别称，如：午日节、重五节，五月节、浴兰节、女儿节，天中节、地腊、诗人节、龙日等等。虽然名称不同，但总体上说，各地人民过节的习俗还是同多于异的。</p>
+                    <p>过端午节，是中国人二千多年来的传统习惯，由于地域广大，民族众多，加上许多故事传说，于是不仅产生了众多相异的节名，而且各地也有着不尽相同的习俗。其内容主要有：女儿回娘家，挂钟馗像，迎鬼船、躲午，帖午叶符，悬挂菖蒲、艾草，游百病，佩香囊，备牲醴,赛龙舟，比武，击球，荡秋千，给小孩涂雄黄，饮用雄黄酒、菖蒲酒，吃五毒饼、咸蛋、粽子和时令鲜果等。</p>
+                    <p>关于端午节的由来，说法甚多，诸如：纪念屈原说；纪念伍子胥说 ；纪念曹娥说；起于三代夏至节说；恶月恶日驱避说，吴月民族图腾祭说等等。以上各说，各本其源。据学者闻一多先生的《端午考》和《端午的历史教育》列举的百余条古籍记载及专家考古考证，端午的起源，是中国古代南方吴越民族举行图腾祭的节日，比屈原更早。但千百年来，屈原的爱国精神和感人诗辞，已广泛深入人心，故人们“惜而哀之，世论其辞，以相传焉”，因此，纪念屈原之说，影响最广最深，占据主流地位。在民俗文化领域，中国民众把端午节的龙舟竞渡和吃粽子等，都与纪念屈原联系在一起。</p>
+       </div>
+     	<div class="clear"></div>
+     </div>
+     <div class="list">
+               <div class="list_img1">
+                    <h3>名称与来历</h3>
+                    <img src="C:\Users\del\Desktop/pic2.jpg" width="130" height="100">
+                    <p>端午节为什么要叫端午节？它还有哪些其他的名字？端午节究竟从何而来？</p>
+                    <ul>
+                         <li><a href="#">·五月初五为何叫做端午节</a></li>
+                         <li><a href="#">·端午节的各种别称</a></li>
+                         <li><a href="#">·十说端午节由来</a></li>
+                         <li><a href="#">·解读端午节起源诸说</a></li>
+                    </ul>
+               </div>
+               <div class="list_img1">
+                    <h3>美丽的传说</h3>
+                    <img src="C:\Users\del\Desktop/pic3.jpg" width="130" height="120">
+                    <p> 每一个节日的背后，都有着许多美丽的传说。中国传统节日就是有这样的特点。</p>
+                    <ul>
+                         <li><a href="#">·三闾大夫屈原的传说</a></li>
+                         <li><a href="#">·"涛神"伍子胥与端午节的由来</a></li>
+                         <li><a href="#">·端午节与孝女曹娥的传说</a></li>
+                         <li><a href="#">·黄巢与端午节插菖蒲艾草的习俗</a></li>
+                    </ul>
+               </div>
+               <div class="list_img1">
+                    <h3>多彩的风俗</h3>
+                    <img src="C:\Users\del\Desktop/pic4.jpg" width="150" height="125">
+                    <p>端午节的习俗，我国各地，在端午节这一天都有着丰富多彩的节庆活动。</p> 
+                    <ul>
+                         <li><a href="#">·清香点缀五月节 端午的粽子</a></li>
+                         <li><a href="#">·端午节习俗 除了吃粽子还吃啥</a></li>
+                         <li><a href="#">·端午节的驱邪风俗</a></li>
+                         <li><a href="#">·端午节的卫生习俗</a></li>
+                    </ul>
+               </div>
+               <div class="list_img1">
+                    <h3>诗文共欣赏</h3>
+                    <img src="C:\Users\del\Desktop/pic5.jpg" width="140" height="125">
+                    <p>人们为了纪念屈原，因此，端午节也已经成了人们心中的诗人、诗歌节。</p>
+                    <ul>
+                         <li><a href="#">·端午日赐衣 唐•杜甫</a></li>
+                         <li><a href="#">·乙卯重五诗 南宋·陆游</a></li>
+                         <li><a href="#">·浣溪沙 宋•苏轼</a></li>
+                         <li><a href="#">·渔家傲 宋•欧阳修</a></li>
+                    </ul>
+               </div>
+               <div class="list_img2">
+                    <h3>特色的饮食-->>粽籺</h3>
+                    <img src="C:\Users\del\Desktop/pic6.jpg" width="140" height="125">
+                    <p><span>粽籺</span>：古称“角黍”，真正有文字记载的粽子见于晋周处的《风土记》；而流传有序，历史最悠久的粽子则是西安的蜂蜜凉粽子，载于唐韦巨源《食谱》。粽早在春秋时期就已出现，最初是用来祭祀祖先和神灵；到了晋代，粽子成为端午节庆食物</p>
+               </div>
+               <div class="list_img2">
+                    <h3>特色的饮食-->>雄黄酒</h3>
+                    <img src="C:\Users\del\Desktop/pic7.jpg" width="140" height="125">
+                    <p><span>雄黄酒</span>：端午饮雄黄酒的习俗，从前在长江流域地区极为盛行。用研磨成粉末的雄黄泡制的白酒或黄酒。雄黄可以用做解毒剂、杀虫药。于是古代人就认为雄黄可以克制蛇、蝎等百虫，“善能杀百毒、辟百邪、制蛊毒，人佩之，入山林而虎狼伏，入川水而百毒避”。</p>
+               </div>
+               <div class="list_img2">
+                    <h3>特色的饮食-->>五黄</h3>
+                    <img src="C:\Users\del\Desktop/pic8.jpg" width="140" height="125">
+                    <p><span>五黄</span>：江浙一带有端午节吃“五黄”的习俗。此外浙北端午节还有吃豆腐的习俗。五黄指黄瓜、黄鳝、黄鱼、鸭蛋黄、雄黄酒。也有其他说法，咸鸭蛋可以用黄豆替代。</p>
+               </div>    
+               <div class="list_img2">
+                    <h3>特色的饮食-->>煎堆</h3>
+                    <img src="C:\Users\del\Desktop/pic9.jpg" width="145" height="125">
+                    <p><span>煎堆</span>：福建晋江地区，端午节家家户户还要吃“煎堆”，就是用面粉、米粉或番薯粉和其他配料调成浓糊状煎成。相传古时闽南一带在端午节之前是雨季，阴雨连绵不止，民间说天公穿了洞，要“补天”。端午节吃了“煎堆”后雨便止了，人们说把天补好了。这种食俗由此而来。</p>
+               </div>    
+               <div class="clear"></div>          
+          </div>
+    <div class="footer">
+               <div class="font">Copyright &copy; 2008-2017 http://www.1111.com All Rights Reserved 网站备案：冀ICP备00000000号</div>
+          </div>
+</body>
+</html>
