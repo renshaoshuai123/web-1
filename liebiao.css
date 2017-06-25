@@ -1,0 +1,224 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	font: 12px '宋体';
+	color: #522a06;
+}
+li {
+	list-style: none;
+}
+a:link {
+	text-decoration: none;
+	color: #522a06;
+}
+a:visted {
+	text-decoration: none;
+	color: #522a06;
+}
+a:hover {
+	text-decoration: underline;
+	color: #522a06;
+}
+#wrap{
+	width: 100%;
+	background-image: url(../images/bodybg.jpg);
+	margin: 0 auto;
+}
+#header{
+	width: 100%;
+	height: 205px;
+	background-image: url(../images/bg.jpg);
+	background-position: top;
+}
+#banner{
+	width: 1000px;
+	height: 164px;
+	margin: 0 auto;
+}
+#ba{
+	padding-top: 38px;
+	padding-left: 25px;
+}
+#nav {
+	width: 100%;
+	height: 40px;
+	background-image: url(../images/nav.jpg);
+	background-position: 
+}
+#nav_body {
+	width: 80%;
+	margin: 0 auto;
+	position: relative;
+	top: 12px;
+}
+#nav_content li {
+	float: left;
+	height: 14px;
+	width: 80px;
+	text-align: center;
+	border-right: 2px solid #fff;
+}
+#nav_content .aa{
+	width: 60px;
+}
+#nav_content .aa a:link{
+	font-weight: bold;
+	color: #f9f603;
+}
+#nav_content .aa a:visited{
+	color: #f9f603;
+}
+#nav_content li a:link{
+	font-weight: bold;
+	color: #fff;
+}
+#nav_content li a:visited{
+	color: #fff;
+}
+#nav_content li a:hover{
+	text-decoration: none;
+	color: #f9f603;
+}
+#sa {
+	float: left;
+	border: 1px solid #fff;
+	width: 176px;
+	margin-left: 480px;
+	background-color: black;
+}
+#sa .sb{
+	background-color: black;
+	color: #fff;
+	border: none;
+	padding-left: 4px;
+}
+/*页面主体*/
+*{margin: 0px;padding: 0px;}
+        ul,ol,li,dl,dt,dd{list-style: none;}
+        .iCls{*zoom:1;}
+        .iCls:after{display:block; overflow:hidden;clear:both; height:0;visibility:hidden; content:".";}
+        .iBread li i,.iBread li em,.iBread li strong{
+            background-image:url("http://images.cnblogs.com/cnblogs_com/kuikui/354173/o_ibread.png");
+            background-repeat: none;
+        }
+
+        .iBread{
+            width: 700px;
+            margin: 20px auto;
+            _overflow: hidden; 
+        }
+
+        .iBread ul{
+            border-radius: 6px;
+            overflow: hidden;
+        } 
+
+        .iBread li{
+            position: relative;
+            float: left;
+            width: 292px;
+            height: 35px;
+            line-height: 35px;
+            color: #666666;
+            font-weight: bold;
+            background: #dfdfdf;
+            margin-right: 17px;
+            _margin-right: 16px;
+            text-indent: 80px;
+
+        }
+
+        .iBread li.last{
+            margin-right: 0px;
+        }
+
+        .iBread li i{
+            position: absolute;
+            right: -17px;
+            top: 0px;
+            z-index: 1;
+            display: block;
+            width: 17px;
+            height: 35px;
+            overflow: hidden;
+            background-position: -204px 0px;
+        }
+
+        .iBread li em{
+            display: none;
+        }
+
+        .iBread li strong{
+            position: absolute;
+            left: 30px;
+            top: 3px;
+            display: block;
+            width: 30px;
+            height: 30px;
+            overflow: hidden;
+            text-indent: -9999px;
+            margin-right: 20px;
+        }
+
+        .iBread li.on{
+            z-index: 1;
+            color: #fff;
+            background-image:url("http://images.cnblogs.com/cnblogs_com/kuikui/354173/o_ibread.png");
+            background-repeat: repeat;
+            background-position: 0px -78px;
+        }
+
+        .iBread li.on i{
+            right: -19px;
+            width: 19px;
+            color: #fff;
+            background-position: -228px -41px;
+        }
+
+        .iBread li.on em,.iBread li.lastOn em{
+            position: absolute;
+            left: -17px;
+            top: 0px;
+            z-index: 1;
+            display: block;
+            width: 17px;
+            height: 35px;
+            overflow: hidden;
+            background-position: -204px -41px;
+        }
+#centent {
+	width: 1000px;
+	clear: both;
+	margin: 0 auto;
+    height: 800px;
+}
+#nr {
+    width: 80%;
+    height: 750px;
+}
+#nrl {
+        font-size: 50px；
+        text-decoration: 2em;
+}
+
+
+
+
+
+
+
+
+
+
+
+#footer {
+    float: bottom;;
+	width: 100%;
+	height: 105px;
+	background-image: url(../images/foot.gif);
+	clear: both;
+}
+#footer .foota p {
+	display: block;
+	text-align: center;
+}

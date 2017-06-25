@@ -1,0 +1,118 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	font: 12px '宋体';
+	color: #522a06;
+}
+li {
+	list-style: none;
+}
+a:link {
+	text-decoration: none;
+	color: #522a06;
+}
+a:visted {
+	text-decoration: none;
+	color: #522a06;
+}
+a:hover {
+	text-decoration: underline;
+	color: #522a06;
+}
+#wrap{
+	width: 100%;
+	background-image: url(../images/bodybg.jpg);
+	margin: 0 auto;
+}
+#header{
+	width: 100%;
+	height: 205px;
+	background-image: url(../images/bg.jpg);
+	background-position: top;
+}
+#banner{
+	width: 1000px;
+	height: 164px;
+	margin: 0 auto;
+}
+#ba{
+	padding-top: 38px;
+	padding-left: 25px;
+}
+#nav {
+	width: 100%;
+	height: 40px;
+	background-image: url(../images/nav.jpg);
+	background-position: 
+}
+#nav_body {
+	width: 80%;
+	margin: 0 auto;
+	position: relative;
+	top: 12px;
+}
+#nav_content li {
+	float: left;
+	height: 14px;
+	width: 80px;
+	text-align: center;
+	border-right: 2px solid #fff;
+}
+#nav_content .aa{
+	width: 60px;
+}
+#nav_content .aa a:link{
+	font-weight: bold;
+	color: #f9f603;
+}
+#nav_content .aa a:visited{
+	color: #f9f603;
+}
+#nav_content li a:link{
+	font-weight: bold;
+	color: #fff;
+}
+#nav_content li a:visited{
+	color: #fff;
+}
+#nav_content li a:hover{
+	text-decoration: none;
+	color: #f9f603;
+}
+#sa {
+	float: left;
+	border: 1px solid #fff;
+	width: 176px;
+	margin-left: 480px;
+	background-color: black;
+}
+#sa .sb{
+	background-color: black;
+	color: #fff;
+	border: none;
+	padding-left: 4px;
+}
+#centent {
+    width: 1000px;
+    clear: both;
+    margin: 0 auto;
+    height: 800px;
+}
+#bt h1{
+	font-size: 20;
+	text-align: center;
+}
+#centent ul li{
+	font-size: 10;
+}
+#footer {
+	width: 100%;
+	height: 105px;
+	background-image: url(../images/foot.gif);
+	clear: both;
+}
+#footer .foota p {
+	display: block;
+	text-align: center;
+	text-decoration: 2em;
+}
